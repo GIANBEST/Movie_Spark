@@ -122,7 +122,7 @@ Uma brilhante cientista da computação descobre que sua criação, uma intelig�
 cd caminho/para/Movie_Spark
 
 # Execute a análise completa
-python netflix_analysis_completo.py
+python netflix_analysis.py
 ```
 
 **Ou utilizando o ambiente virtual:**
@@ -131,13 +131,13 @@ python netflix_analysis_completo.py
 .venv\Scripts\activate
 
 # Execute o script
-python netflix_analysis_completo.py
+python netflix_analysis.py
 ```
 
 ### **Geração de Visualizações:**
 ```bash
 # Execute a análise completa que já gera as visualizações
-python netflix_analysis_completo.py
+python netflix_analysis.py
 ```
 
 ### **Este comando único executa:**
@@ -155,7 +155,7 @@ python netflix_analysis_completo.py
 ```
 Movie_Spark/
 ├── netflix_titles.csv                     # Dataset original (8.807 registros)
-├── netflix_analysis_completo.py           # Script principal unificado
+├── netflix_analysis.py                    # Script principal unificado
 ├── analise_netflix_mapreduce.png          # Gráficos e visualizações
 ├── README.md                              # Esta documentação
 └── .venv/                                 # Ambiente virtual Python
@@ -177,7 +177,7 @@ Movie_Spark/
 
 ##  Funcionalidades do Script Principal
 
-### `netflix_analysis_completo.py`:
+### `netflix_analysis.py`:
 -  **Implementação MapReduce completa** com classes especializadas
 -  **Engine de recomendações** baseada em análise de dados
 -  **Geração automática** de série e filme
