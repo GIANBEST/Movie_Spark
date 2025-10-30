@@ -148,14 +148,15 @@ python netflix_analysis_completo.py
 -  Simulação conceitual dos princípios Hadoop
 
 ### **Arquivos Gerados:**
-- `netflix_complete_analysis.png` - Visualizações completas com gráficos principais
+- `analise_netflix_mapreduce.png` - Visualizações completas com gráficos principais
 
 ##  Estrutura do Projeto
 
 ```
 Movie_Spark/
-├── netflix_titles.csv                     # Dataset original
+├── netflix_titles.csv                     # Dataset original (8.807 registros)
 ├── netflix_analysis_completo.py           # Script principal unificado
+├── analise_netflix_mapreduce.png          # Gráficos e visualizações
 ├── README.md                              # Esta documentação
 └── .venv/                                 # Ambiente virtual Python
 ```

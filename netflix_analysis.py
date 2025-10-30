@@ -478,10 +478,10 @@ class NetflixVisualization:
         ax4.grid(True, alpha=0.3, color='gray')
         
         plt.tight_layout()
-        plt.savefig('netflix_complete_analysis.png', dpi=300, bbox_inches='tight', 
+        plt.savefig('analise_netflix_mapreduce.png', dpi=300, bbox_inches='tight', 
                    facecolor='#000000', edgecolor='none', pad_inches=0)
         plt.close()
-        print("   📈 Gráficos principais salvos em 'netflix_complete_analysis.png'")
+        print("   📈 Gráficos principais salvos em 'analise_netflix_mapreduce.png'")
 
 def simulate_hadoop_mapreduce():
     # Simulação conceitual do Hadoop MapReduce
@@ -544,7 +544,7 @@ def main():
     print(f"\n🎉 ANÁLISE COMPLETA CONCLUÍDA!")
     print(f"✅ Série 'Conexão Perdida' criada e justificada")
     print(f"✅ Filme 'Consciência Artificial' criado e justificado")
-    print(f"✅ Gráficos salvos em 'netflix_complete_analysis.png'")
+    print(f"✅ Gráficos salvos em 'analise_netflix_mapreduce.png'")
     print(f"✅ Metodologia MapReduce aplicada com sucesso")
     
     return serie, movie
