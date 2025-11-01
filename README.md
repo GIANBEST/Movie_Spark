@@ -185,7 +185,6 @@ Movie_Spark/
 -  **Visualizações profissionais** com matplotlib/seaborn
 -  **Fundo negro puro (#000000)** para máximo contraste
 -  **Simulação conceitual** de princípios Hadoop MapReduce
--  **Saída formatada** com emojis e organização clara
 
 ##  Resultados e Conclusões
 
