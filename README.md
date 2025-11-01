@@ -142,7 +142,7 @@ python netflix_analysis.py
 
 ### **Este comando único executa:**
 -  Análise MapReduce completa do dataset
--  Criação da série ''Conexão Perdida''s
+-  Criação da série ''Conexão Perdidas''
 -  Criação do filme ''Consciência Artificial''
 -  Geração de visualizações profissionais (PNG)
 -  Simulação conceitual dos princípios Hadoop
