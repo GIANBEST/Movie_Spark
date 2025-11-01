@@ -142,8 +142,8 @@ python netflix_analysis.py
 
 ### **Este comando único executa:**
 -  Análise MapReduce completa do dataset
--  Criação da série ''Conexão Perdida'' com justificativa
--  Criação do filme ''Consciência Artificial'' com justificativa
+-  Criação da série ''Conexão Perdida''s
+-  Criação do filme ''Consciência Artificial''
 -  Geração de visualizações profissionais (PNG)
 -  Simulação conceitual dos princípios Hadoop
 
@@ -213,15 +213,6 @@ Movie_Spark/
 - **Cores Otimizadas** para legibilidade
 - **Layout Profissional** sem sobreposição de elementos
 - **Múltiplos Gráficos**: Gêneros, Países, Ratings e Evolução Temporal
-
-##  Próximos Passos e Melhorias
-
-1. **Implementação Apache Spark**: Migrar código para Spark para processamento em larga escala
-2. **Análise de Sentimentos**: Incorporar NLP nas descrições para insights adicionais
-3. **Machine Learning**: Implementar algoritmos preditivos de recomendação
-4. **API REST**: Desenvolver interface web para consultas interativas
-5. **Testes A/B**: Validar recomendações com audiência real
-6. **Dashboard Interativo**: Criar visualizações dinâmicas com Plotly/Dash
 
 ##  Requisitos e Instalação
 
