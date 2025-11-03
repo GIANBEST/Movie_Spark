@@ -10,7 +10,7 @@ Este projeto realiza uma análise completa do dataset Netflix utilizando **conce
 -  Criação de 1 série hipotética justificada pelos dados
 -  Criação de 1 filme hipotético justificado pelos dados
 -  Demonstração prática dos conceitos MapReduce
--  Visualizações profissionais em PNG com fundo negro puro
+-  Visualizações profissionais em PNG
 
 ##  Tecnologias Utilizadas
 
