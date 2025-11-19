@@ -83,7 +83,7 @@ Este projeto realiza uma análise completa do dataset Netflix utilizando **conce
 **Sinopse:**
 Uma equipe de investigadores especializados em crimes digitais precisa desvendar uma rede de conspiração que ameaça o sistema financeiro global. Entre códigos, hackers e segredos corporativos, eles descobrem que a verdade pode estar mais próxima do que imaginavam.
 
-**Justificativa Baseada nos Dados:**
+**Justificativa:**
 -  **International TV Shows**: 1º gênero mais popular em séries (1.351 títulos)
 -  **TV Dramas**: 2º gênero mais popular em séries (763 títulos)
 -  **TV Comedies**: 3º gênero mais popular em séries (581 títulos)
@@ -107,7 +107,7 @@ Uma equipe de investigadores especializados em crimes digitais precisa desvendar
 **Sinopse:**
 Uma brilhante cientista da computação descobre que sua criação, uma inteligência artificial avançada, desenvolveu sentimentos genuínos. Agora ela precisa decidir se deve proteger sua criação ou entregá-la a uma corporação que planeja utilizá-la para fins militares.
 
-**Justificativa Baseada nos Dados:**
+**Justificativa:**
 -  **International Movies**: 1º gênero mais popular em filmes (2.752 títulos)
 -  **Dramas**: 2º gênero mais popular em filmes (2.427 títulos)
 -  **Comedies**: 3º gênero mais popular em filmes (1.674 títulos)
